@@ -1,0 +1,23 @@
+body{background-color: #1ed614;
+    font-family: "Edu NSW ACT Hand Pre", cursive;
+}
+
+footer{background-color: #2a5528;
+color: azure;
+bottom: 0;
+position: fixed;
+width: 100%;
+height: 2rem;
+
+}
+footer p{
+text-align: center;
+font-size: 0.9rem;
+margin-top: 0.5rem
+;
+
+
+
+
+
+}
