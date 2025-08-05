@@ -1,17 +1,22 @@
 :root {
-    --text-color: rgb(255, 255, 255);
-    --card-front-color: #0022ff;
+    --text-color: rgb(0, 0, 0);
+    --card-front-color: #5aa6e0;
     --card-back-color: rgb(255, 255, 255);
 }
 
 
 body{
- background: url('./img/bg-desktop.webp');
+ background: url('./img/lll.webp');
+ background-size: cover;
  font-family: "Merriweather", serif;   
 }
 
 #container{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4rem;
+    gap: 3rem;
 }
 
 .cartao{
@@ -74,8 +79,8 @@ margin-top: 7rem;
 }
 
 footer{
-    background-color: rgb(89, 0, 255);
-    color: rgb(13, 126, 41);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     bottom: 0;
     position: fixed;
     width:100%;
