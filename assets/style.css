@@ -1,12 +1,12 @@
 :root {
     --text-color: rgb(0, 0, 0);
-    --card-front-color: #5aa6e0;
-    --card-back-color: rgb(255, 255, 255);
+    --card-front-color: #ffffff;
+    --card-back-color: rgb(0, 0, 0);
 }
 
 
 body{
- background: url('./img/lll.webp');
+ background: url('./img/black.webp');
  background-size: cover;
  font-family: "Merriweather", serif;   
 }

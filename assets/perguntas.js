@@ -15,3 +15,20 @@ criaCartao(
     'Qual é o jogo de mundo aberto mais jogado e conhecido no mundo?',
     'Minecraft'
 )
+
+
+criaCartao(
+    'Astronomia',
+    'Quem foi a primeira pessoa a viajar no Espaço??',
+    'Yuri Gagarin'
+)
+criaCartao(
+    'Geografia',
+    'Onde se localiza Machu Picchu?',
+    'Peru'
+)
+criaCartao(
+    'Curiosidade',
+    'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?',
+    'Ambos têm o mesmo peso: 1 quilo.'
+)
